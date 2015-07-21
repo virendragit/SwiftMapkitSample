@@ -3,8 +3,7 @@
 //  SwiftMapKitSample
 //
 //  Created by Virendra on 7/16/15.
-//  Copyright (c) 2015 Cognizant. All rights reserved.
-//
+
 
 import UIKit
 
